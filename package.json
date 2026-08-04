@@ -1,0 +1,26 @@
+{
+  "name": "@controleonline/react-native-getnet-payment",
+  "version": "1.0.0",
+  "description": "React Native module for Getnet POS payments via deeplink",
+  "main": "index.js",
+  "files": [
+    "android",
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "keywords": [
+    "react-native",
+    "getnet",
+    "payment",
+    "pos",
+    "deeplink"
+  ],
+  "author": "ControleOnline",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ControleOnline/react-native-getnet-payment.git"
+  }
+}
